@@ -1,0 +1,31 @@
+_repo: The-Rock-of-the-Lion_47785
+contributor:
+  illustrator:
+    agent_name: Keller, Arthur Ignatius
+    aliases:
+    - Keller, A. I. (Arthur Ignatius)
+    - Keller, Arthur I.
+    birthdate: 1866
+    deathdate: 1924
+    gutenberg_agent_id: '7429'
+    url: http://www.gutenberg.org/2009/agents/7429
+creator:
+  author:
+    agent_name: Seawell, Molly Elliot
+    alias: Seawell, M. Elliot (Molly Elliot)
+    birthdate: 1860
+    deathdate: 1916
+    gutenberg_agent_id: '7754'
+    url: http://www.gutenberg.org/2009/agents/7754
+    wikipedia: http://en.wikipedia.org/wiki/Molly_Elliot_Seawell
+description: ''
+gutenberg_issued: '2014-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Rock of the Lion
+url: http://www.gutenberg.org/ebooks/47785
